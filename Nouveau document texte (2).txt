@@ -1,0 +1,1 @@
+INSERT INTO `inventaire`(`id`, `Last_inventory`, `Computer`, `User`, `Windows`, `RAM_MB`, `CPU_Mhz`) VALUES (1,'2022-27-6 21:16:00','VD-POR-INFO-2','a.laurent','Microsoft Windows 11 Professionnel',16384, 2304);
